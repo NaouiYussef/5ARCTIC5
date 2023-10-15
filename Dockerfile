@@ -1,4 +1,4 @@
-# Use the official OpenJDK base image
+# Use the official OpenJDK base image edit
 FROM openjdk:11-jre-slim
 
 # Set the working directory inside the container
